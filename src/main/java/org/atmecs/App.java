@@ -5,6 +5,7 @@ public class App {
         SampleTestScript sample = new SampleTestScript();
         sample.sampleMethod();
         System.out.println("This is a sample App class");
+        System.out.println("This is a main method");
     }
 }
 
