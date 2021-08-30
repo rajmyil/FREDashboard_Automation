@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites>
+  <testsuite name='org.atmecs.SampleTestScript' timestamp='2021-08-30T04:41:30.752Z' hostname='localhost' tests='1' failures='0' errors='0' time='0.013' package='' id='0'>
+    <properties />
+    <testcase name='sampleMethod' classname='org.atmecs.SampleTestScript' time='0.013' />
+    <system-out />
+    <system-err /></testsuite></testsuites>
