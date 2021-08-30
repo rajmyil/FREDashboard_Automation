@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/FREDashboard_Automation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bazel-fredashboardautomationtest" vcs="Git" />
   </component>
 </project>
